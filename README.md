@@ -11,32 +11,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-- **Languages:** JavaScript, TypeScript, Java, C  
-- **Frontend:** React, Redux, HTML, CSS, Tailwind, Bootstrap  
-- **Backend:** Node.js, Express, NestJS, MongoDB, SQL, Redis  
-- **Tools & Platforms:** Git, GitHub, Postman, VS Code, Figma, AWS (EC2, S3), Nginx  
-- **Others:** JWT Auth, OAuth 2.0, REST APIs, PDFKit, Socket.IO, Cloudinary, Stripe
-
----
-
-### 🚀 Featured Projects
-
-#### 🎓 [Tutoriam – Learning Management System](https://github.com/sahshad/tutoriam)  
-A full-featured LMS with multi-role access, JWT auth, Redis OTP, media uploads, and real-time messaging.
-
-#### 👟 [Shoezie – E-commerce App](https://github.com/sahshad/shoezie)  
-Full-fledged e-commerce platform with admin panel, Razorpay integration, order tracking, invoice generation, and AWS deployment.
-
-#### 🔗 [Snaprul – URL Shortener App](https://github.com/sahshad/snapurl)  
-NestJS + React based short URL service with JWT authentication, custom links, and MongoDB storage.
-
-#### 🎬 [Filmspot – Movie Search App](https://github.com/sahshad/filmspot)  
-MERN app integrating OMDb API. Authenticated users can search, favorite, and manage a personal watchlist.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
