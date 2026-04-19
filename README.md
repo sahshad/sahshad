@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Muhammed Sahshad 👋</h1>
-<p align="center"><strong>Full-Stack MERN Developer | TypeScript | Node.js | React | NestJS</strong></p>
+<p align="center"><strong>Full-Stack MERN Developer | TypeScript | Node.js | React | NestJS | Golang | SQL | Mongodb </strong></p>
 
 ---
 
 🌍 **Location:** Malappuram, Kerala, India  
 💼 **Current Focus:** Building scalable web apps using MERN & NestJS  
-📫 **Email:** [mohmdshahzad7@gmail.com](mailto:mohmdshahzad7@gmail.com)  
-🔗 **Portfolio:** Coming soon  
-📎 **Resume:** Available on request
+📫 **Email:** [sahshad.muhammed@gmail.com](mailto:sahshad.muhammed@gmail.com)  
+🔗 **Portfolio:** -  
+📎 **Resume:** -
 
 ---
 
